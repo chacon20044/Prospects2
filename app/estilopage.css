@@ -1,0 +1,12 @@
+.abajo {
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.Lema {
+    background-color: azure;
+    height: max-content;
+    width: max-content;
+}
